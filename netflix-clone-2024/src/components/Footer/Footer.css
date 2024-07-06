@@ -4,12 +4,12 @@
     display: flex;
     justify-content: center;
 }
-.footer_inner_container{
-    width: 60%;
-    /* background-color: red; */
-}
+.footer_inner_container{ 
+    width: 60%; 
+    /* background-color: red;  */
+} 
 .footer_icons{
-    /* background-color: blue; */
+    /* background-color: blue;  */
     width: 12%;
     display: flex;
     justify-content: space-between;
